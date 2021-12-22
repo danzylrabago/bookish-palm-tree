@@ -66,7 +66,7 @@ class Set extends Weekday implements Alarm{
     }
 
 
-public class TP007 {
+public class Alarm_Clock {
     public static void main(String[]args){
         Set set = new Set();
         Scanner sc = new Scanner(System.in);
