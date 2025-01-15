@@ -1,0 +1,7 @@
+{
+"short_name": "XX",
+"name": "Xoftware X",
+"icons": [ ],
+"start_url": "/demo.html?addToHome=true",
+"display": "standalone"
+}
